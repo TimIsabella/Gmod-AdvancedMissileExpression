@@ -6,7 +6,7 @@ Targeting in its basic form can be considered a straight line from a
 starting point to target -- this is known as 'line of sight' targeting.
 When it comes to moving targets, it is required to lead that target so as
 to intercept it at a point in space ahead of where it is initially -- this is known as
-'lead-collision'.
+'lead-collision' targeting.
 
 By utilizing live target vector and velocity data, a point in space leading a 
 target in a straight line can be calculated in real-time, effectively cutting 
