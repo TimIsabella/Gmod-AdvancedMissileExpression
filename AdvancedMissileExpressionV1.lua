@@ -40,8 +40,8 @@ if(Target)
    Gy = entity():vel():y() * Gvel
    Gz = entity():vel():z() * Gvel
    
-   Vec = GPS - vec((Tx+Lx)-Gx, (Ty+Ly)-Gy, (Tz+Lz)-Gz)
+   Vec = GPS - Vec((Tx+Lx)-Gx, (Ty+Ly)-Gy, (Tz+Lz)-Gz)
 
-   #HoloTest = vec(-((Tx+Lx)-Gx), (Ty+Ly)-Gy, ((Tz+Lz)-Gz)-150)
+   #HoloTest = Vec(-((Tx+Lx)-Gx), (Ty+Ly)-Gy, ((Tz+Lz)-Gz)-150)
   }
 else {Mult = 0, Hold = 0}
