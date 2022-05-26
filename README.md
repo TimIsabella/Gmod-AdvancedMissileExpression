@@ -2,11 +2,11 @@
 
 ![Lead-collision](https://github.com/TimIsabella/Gmod-AdvancedMissileExpression/blob/main/Lead-Collision.jpg)
 
-Targeting in its basic form can be considered a straight line from a
-starting point to target -- this is known as 'line of sight' targeting.
+Targeting in its basic form can be considered a straight line (vector) 
+from a starting point to target -- this is known as 'line of sight' targeting.
 When it comes to moving targets, it is required to lead that target so as
-to intercept it at a future point in space ahead of where it is initially -- this is known as
-'lead-collision' targeting.
+to intercept it at a future point in space ahead of where it is initially
+-- this is known as 'lead-collision' targeting.
 
 ## Lead-Collision Calculation
 
