@@ -16,5 +16,5 @@ cutting all corners where possible. By also calculating the inertia of the proje
 interception accuracy and guidance reaction time are greatly enhanced while also eliminating
 target orbit which is exhibited with with line of sight guidance due to unmitigated inertia.
 
-## Video
+## Video Demonstration
 [![Watch the video](https://github.com/TimIsabella/Gmod-AdvancedMissileExpression/blob/main/AME.png)](https://www.youtube.com/watch?v=8GuJDiRmCqA)
