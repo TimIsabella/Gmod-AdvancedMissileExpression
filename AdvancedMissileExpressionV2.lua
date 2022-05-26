@@ -30,7 +30,7 @@ IM = 0.00005         #Inertia Correction Modifier
     Vec = GPS -(Target:massCenter() + LV - GV)
  
     #TP = Target:massCenter()
-    #HoloTest = vec(-((TP:x()+LV:x())-GV:x()), (TP:y()+LV:y())-GV:y(), ((TP:z()+LV:z())-GV:z())-150)
+    #HoloTest = Vec(-((TP:x()+LV:x())-GV:x()), (TP:y()+LV:y())-GV:y(), ((TP:z()+LV:z())-GV:z())-150)
  
     Mult = 1
    }
