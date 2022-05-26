@@ -2,7 +2,7 @@
 
 ![Lead-collision](https://github.com/TimIsabella/Gmod-AdvancedMissileExpression/blob/main/Lead-Collision.jpg)
 
-Targeting in its basic form can be considered a straight line (vector) 
+Targeting in its basic form can be considered a straight line trajectory (vector) 
 from a starting point to target -- this is known as 'line of sight' targeting.
 When it comes to moving targets, it is required to lead that target so as
 to intercept it at a future point in space ahead of where it is initially
