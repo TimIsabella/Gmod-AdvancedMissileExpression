@@ -8,6 +8,8 @@ When it comes to moving targets, it is required to lead that target so as
 to intercept it at a future point in space ahead of where it is initially
 -- this is known as 'lead-collision' targeting.
 
+[HERE](https://www.youtube.com/watch?v=T2fPKUfmnKo) is a good 2D demonstration of this concept.
+
 ## Lead-Collision Calculation
 
 By utilizing live target vector and velocity data, a straight line trajectory 
