@@ -13,11 +13,11 @@ to intercept it at a future point in space ahead of where it is initially
 ## Lead-Collision Calculation
 
 By utilizing live target vector and velocity data, a straight line trajectory 
-leading a target can be calculated in real-time, effectively cutting all corners
-where possible. By also calculating the inertia of the projectile, interception 
-accuracy and guidance reaction time are greatly enhanced while also eliminating 
-target orbit which is exhibited with with line of sight guidance due to 
-unmitigated inertia.
+leading a target can be calculated in real-time, effectively plotting a straight line
+to a moving target and cutting all corners where possible. By also calculating the 
+inertia of the projectile, interception accuracy and guidance reaction time are
+greatly enhanced while also eliminating target orbit which is exhibited with 
+line of sight guidance due to unmitigated inertia.
 
 ## Video Demonstration
 [![Watch the video](https://github.com/TimIsabella/Gmod-AdvancedMissileExpression/blob/main/AME.png)](https://www.youtube.com/watch?v=8GuJDiRmCqA)
