@@ -1,4 +1,4 @@
-# Advanced Lead-Collision Missile Guidance Expression 
+# Advanced Lead-Collision Missile Guidance Expression
 
 ![Lead-collision](https://github.com/TimIsabella/Gmod-AdvancedMissileExpression/blob/main/Lead-Collision.jpg)
 
